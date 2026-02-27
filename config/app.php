@@ -10,7 +10,7 @@ return [
     | change this value if you are not maintaining your own internal versions.
     */
 
-    'version' => 'canary',
+    'version' => '1.0',
 
     /*
     |--------------------------------------------------------------------------
@@ -23,7 +23,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'casa-og-panel'),
+    'name' => env('APP_NAME', 'Casaogpanel'),
 
     /*
     |--------------------------------------------------------------------------
